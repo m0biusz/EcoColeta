@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Green Palette (Sustainability & Trust) -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_light">#60ad5e</color>
+    <color name="primary_dark">#005005</color>
+
+    <!-- Secondary Blue Palette (Cleanliness & Technology) -->
+    <color name="secondary">#00B0FF</color>
+    <color name="secondary_light">#69e2ff</color>
+    <color name="secondary_dark">#0081cb</color>
+
+    <!-- Neutrals (Cleanliness & Simplicity) -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+
+    <!-- Text Colors (Higher Contrast) -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#545454</color>
+
+    <!-- Legacy / Compatibility -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

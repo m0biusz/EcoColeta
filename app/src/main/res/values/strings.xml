@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">EcoColeta</string>
+    <string name="app_tagline">Gestão Inteligente de Resíduos</string>
+    <string name="welcome_title">Sustentabilidade Urbana</string>
+    <string name="welcome_description">O EcoColeta conecta você à rede de coleta da sua cidade, promovendo uma cidade mais limpa e tecnológica.</string>
+    <string name="btn_start">Começar Agora</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">Início</string>
+    <string name="nav_map">Mapa</string>
+    <string name="nav_collections">Coletas</string>
+    <string name="nav_tickets">Chamados</string>
+
+    <!-- Fragment Placeholders -->
+    <string name="title_home">Página Inicial</string>
+    <string name="title_map">Mapa de Coleta</string>
+    <string name="title_collections">Minhas Coletas</string>
+    <string name="title_tickets">Chamados e Suporte</string>
+
+    <!-- Home Screen -->
+    <string name="greeting_user">Olá, %1$s!</string>
+    <string name="next_collection_title">Próxima Coleta</string>
+    <string name="label_date">Data: </string>
+    <string name="label_time">Horário: </string>
+    <string name="label_type">Tipo: </string>
+    <string name="label_region">Região: </string>
+    <string name="btn_view_schedule">Ver Programação Completa</string>
+    <string name="section_notices">Avisos e Novidades</string>
+    <string name="btn_report_problem">Reportar Problema</string>
+
+    <!-- Mock Data -->
+    <string name="mock_user_name">Carlos</string>
+    <string name="mock_date">Amanhã, 25 Ago</string>
+    <string name="mock_time">08:00 - 10:00</string>
+    <string name="mock_type">Reciclável (Papel/Plástico)</string>
+    <string name="mock_region">Setor Central</string>
+    <string name="mock_notice_1">Manutenção na rede de esgoto na Rua 10 amanhã.</string>
+
+    <!-- Collections Screen -->
+    <string name="title_schedule">Programação de Coleta</string>
+    <string name="tag_next">Próxima</string>
+    <string name="type_recyclable">Reciclável</string>
+    <string name="type_organic">Orgânico</string>
+    <string name="type_special">Especial (Eletrônicos/Móveis)</string>
+
+    <!-- Tickets Screen -->
+    <string name="title_my_tickets">Meus Chamados</string>
+    <string name="label_protocol">Protocolo: </string>
+    <string name="label_status">Status: </string>
+    <string name="label_description">Descrição</string>
+    <string name="label_photo">Fotografia</string>
+    <string name="label_history">Histórico de Alterações</string>
+
+    <!-- Ticket Statuses -->
+    <string name="status_sent">Enviado</string>
+    <string name="status_received">Recebido</string>
+    <string name="status_analyzing">Em análise</string>
+    <string name="status_in_progress">Em atendimento</string>
+    <string name="status_resolved">Resolvido</string>
+
+    <!-- Ticket Types -->
+    <string name="ticket_type_trash">Lixo não coletado</string>
+    <string name="ticket_type_dump">Descarte irregular</string>
+    <string name="ticket_type_container">Lixeira danificada</string>
+    <string name="ticket_type_other">Outros problemas</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Lembretes de Coleta</string>
+    <string name="notification_channel_desc">Notificações para avisar sobre a próxima coleta de resíduos.</string>
+    <string name="notification_title">Próxima Coleta Chegando!</string>
+    <string name="notification_content">%1$s - %2$s às %3$s (%4$s)</string>
+    <string name="settings_reminders">Ativar Lembretes de Coleta</string>
+    <string name="btn_test_notification">Testar Notificação</string>
+    <string name="empty_list_tickets">Você ainda não registrou nenhum chamado.</string>
+    <string name="empty_list_collections">Nenhuma coleta programada para esta região.</string>
+    <string name="accessibility_avatar">Avatar do usuário</string>
+    <string name="accessibility_location_fab">Centralizar minha localização</string>
+    <string name="accessibility_ticket_photo">Foto da ocorrência</string>
+</resources>
